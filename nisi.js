@@ -1,0 +1,2 @@
+    && !localScaleComponent.merged)
+    
